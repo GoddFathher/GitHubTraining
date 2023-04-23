@@ -8,3 +8,6 @@ now working on front end
 using javaScript created 
 
 changed the background colour
+
+attempting to add a payment method
+with multiple data bases
